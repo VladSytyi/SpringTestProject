@@ -1,0 +1,13 @@
+
+
+# IDEs and editors
+/*.idea
+/target
+/build
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
